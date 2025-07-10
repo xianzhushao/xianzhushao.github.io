@@ -41,7 +41,7 @@ education:
   - area: BSc Mathematics and Appiled Mathematics
     institution: Tianjin University of Commerce
     date_start: 2019-09-01
-    date_end: 2023-06-31
+    date_end: 2023-06-15
     summary: |
       GPA: 3.33/4.0(WES)
       
