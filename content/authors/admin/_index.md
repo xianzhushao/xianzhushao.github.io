@@ -56,7 +56,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2024-06-17
-    date_end: now
+    date_end: ''
     summary: |2-
       Responsibilities include:
       - Graph Neural Network Algorithm (Root Cause Analysis)
