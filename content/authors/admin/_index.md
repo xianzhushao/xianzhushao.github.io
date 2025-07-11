@@ -119,7 +119,7 @@ awards:
   - title: Third Prize Scholarship
     date: '2023-09-01'
     summary: |
-      Awarded during the 2022 - 2023 academic year.
+      Obtained in the 2022 - 2023 academic year.
   - title: National Encouragement Scholarship
     date: '2021-09-01'
     summary: |
@@ -127,43 +127,43 @@ awards:
   - title: Second Prize Scholarship
     date: '2021-09-01'
     summary: |
-      Received in the 2020 - 2021 academic year.
+      Obtained in the 2020 - 2021 academic year.
   - title: Second Prize Scholarship
     date: '2020-09-01'
     summary: |
-      Earned during the 2019 - 2020 academic year.
+      Obtained in the 2019 - 2020 academic year.
   - title: Honorable Mention Award in Mathematical Contest In Modeling
     date: '2023-05-01'
     summary: |
-      Achieved in 2023, served as Team Leader.
+      Won in 2023, served as Team Leader.
   - title: Second Prize in the 11th Asia Pacific University Mathematical Contest in Modeling
     date: '2022-01-01'
     summary: |
-      Won in 2022, serve  as Team Leader.
+      Won in 2022, serve as Team Leader.
   - title: Finalist Award in the 2nd Tianjin “Ruisi Cup” Data Modeling Competition (Top 1%)
     date: '2021-09-01'
     summary: |
-      Attained in 2021, was Team Leader, ranked Top 1%.
+      Won in 2021, serve as Team Leader, ranked Top 1%.
   - title: Third Prize in the 9th “Teddy Cup” National Data Mining Challenge
     date: '2021-08-01'
     summary: |
-      Secured in 2021, served as Team Leader.
+      Won in 2021, served as Team Leader.
   - title: Third Prize in the 9th “ShuWei Cup” National Mathematical Contest in Modeling
     date: '2021-08-01'
     summary: |
-      Won in 2021, acted as Team Leader.
+      Won in 2021, serve as Team Leader.
   - title: Outstanding Graduate Honour
     date: '2023-06-01'
     summary: |
-      Conferred in 2023.
+      Obtained in 2023.
   - title: Outstanding National Innovation Project Completion
     date: '2023-06-01'
     summary: |
-      Achieved in 2023, functioned as Team Leader.
+      Won in 2023, serve as Team Leader.
   - title: University Merit Student
     date: '2020-09-01'
     summary: |
-      Named in 2020.
+      Obtained in 2020.
 ---
 
 ## About Me
