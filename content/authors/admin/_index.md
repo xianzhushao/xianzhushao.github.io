@@ -13,6 +13,11 @@ last_name: Shao
 status:
   icon: 👀
 
+social:
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=pDls3agAAAAJ&hl=en
+
 # Is this the primary user of the site?
 superuser: true
 
