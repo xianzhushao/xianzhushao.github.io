@@ -38,30 +38,25 @@ profiles:
  
 
 interests:
+  - Medical Image Analysis 
+  - Brain AI
   - Artificial Intelligence
+  - Computer Vision
   - Time Series
-  - LLM,CV
 
 education:
   - area: BSc Mathematics and Appiled Mathematics
     institution: Tianjin University of Commerce
     date_start: 2019-09-01
     date_end: 2023-06-15
-    summary: |
-      GPA: 3.33/4.0(WES)
-      
-      Courses included:
-      - Data Minning
-      - Machine Learning
-      - Optimization Methods
-      - Real Analysis
+
 work:
   - position: AI Algorithm Engineer
     company_name: Tencent&Canway Joint Team
     company_url: ''
     company_logo: ''
     date_start: 2024-06-17
-    date_end: ''
+    date_end: 2025-12-05
     summary: |2-
       Responsibilities include:
       - Graph Neural Network Algorithm (Root Cause Analysis)
@@ -173,4 +168,4 @@ awards:
 
 ## About Me
 
-I am currently an AI Algorithm Engineer at the Tencent & Canway Joint Development Team.I obtained a Bachelor's degree in Mathematics and Applied Mathematics in 2023.Since graduation, I have been engaged in the research and development of artificial intelligence algorithms.I am currently seeking PhD programs for Spring 2026 or Fall 2026 intake.If you are interested in my research experience, please feel free to contact me.
+I am currently a Ph.D. student in Computer Science at the University of Texas at Arlington (UTA), where my research focuses on Medical Image Analysis and Brain AI. Prior to joining UTA, I worked as an AI Algorithm Engineer at the Tencent & Canway Joint Development Team. I received my Bachelor's degree in Mathematics and Applied Mathematics from Tianjin University of Commerce in 2023. I am passionate about leveraging deep learning to advance our understanding of the brain and improve clinical diagnostics. Feel free to reach out if you are interested in collaboration or have any questions about my research.
