@@ -95,8 +95,8 @@ sections:
     content:
       title: ''
       text: |-
-        <div style="max-width:300px;margin:0 auto;text-align:center;">
-        <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=68enhMm_cZFGWA_M22rTaeRcBoPwsw9FQcHCI0UBSTs&cl=ffffff&w=a"></script>
+        <div style="width:320px;max-width:100%;margin:0 auto;">
+        <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=68enhMm_cZFGWA_M22rTaeRcBoPwsw9FQcHCI0UBSTs&cl=ffffff&w=320"></script>
         </div>
     design:
       columns: '1'
