@@ -1,0 +1,19 @@
+/* Biography block: keep the profile column compact */
+.resume-biography > div:first-child {
+  max-width: 290px;
+}
+.resume-biography .portrait-title h3 {
+  font-size: 1.1rem;
+}
+/* organization lines (department / university) */
+.resume-biography .portrait-title > div.mb-2:not(.text-3xl) {
+  color: rgb(75 85 99);
+  font-size: 0.95rem;
+  margin-bottom: 0.15rem;
+}
+.dark .resume-biography .portrait-title > div.mb-2:not(.text-3xl) {
+  color: rgb(209 213 219);
+}
+.resume-biography .network-icon {
+  margin-top: 0.75rem;
+}

@@ -19,6 +19,8 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
     design:
+      spacing:
+        padding: ['2rem', 0, '4rem', 0]
       background:
         color: '#ffffff'
         image:
@@ -95,7 +97,7 @@ sections:
     content:
       title: ''
       text: |-
-        <div style="width:320px;max-width:100%;margin:0 auto;">
+        <div style="width:320px;max-width:100%;margin:0 auto;pointer-events:none;">
         <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=68enhMm_cZFGWA_M22rTaeRcBoPwsw9FQcHCI0UBSTs&cl=ffffff&w=320"></script>
         </div>
     design:

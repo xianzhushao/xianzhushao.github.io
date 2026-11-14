@@ -21,10 +21,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. Student in Computer Science and Engineering
+role: Ph.D. Student
 
 # Organizations/Affiliations to display in Biography blox
-affiliations:
+organizations:
+  - name: Computer Science & Engineering
+    url: https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse
   - name: University of Texas at Arlington
     url: https://www.uta.edu/
 
