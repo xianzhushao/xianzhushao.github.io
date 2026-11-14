@@ -1,0 +1,87 @@
+\documentclass[10pt]{article}
+\usepackage[letterpaper,margin=0.65in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{xcolor}
+\usepackage[hidelinks]{hyperref}
+
+\definecolor{accent}{HTML}{047857}
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\linespread{1.0}
+
+\titleformat{\section}{\large\bfseries\color{accent}}{}{0pt}{}[\vspace{-0.6em}\color{accent}\rule{\linewidth}{0.5pt}]
+\titlespacing*{\section}{0pt}{7pt}{4pt}
+\setlist[itemize]{leftmargin=1.2em,itemsep=1pt,topsep=2pt,parsep=0pt}
+
+\newcommand{\entry}[4]{\textbf{#1}\hfill #2\\ \textit{#3}\hfill \textit{#4}\par}
+
+\begin{document}
+
+\begin{center}
+  {\LARGE\bfseries Xianzhu Shao}\\[4pt]
+  Ph.D. Student, Computer Science and Engineering, University of Texas at Arlington\\[2pt]
+  \href{mailto:xianz.shao@gmail.com}{xianz.shao@gmail.com} \enspace$\cdot$\enspace
+  \href{https://xianzhushao.github.io}{xianzhushao.github.io} \enspace$\cdot$\enspace
+  \href{https://scholar.google.com/citations?user=pDls3agAAAAJ}{Google Scholar} \enspace$\cdot$\enspace
+  \href{https://github.com/xianzhushao}{GitHub}
+\end{center}
+
+\section{Research Interests}
+Machine learning theory, multimodal deep learning, hyperbolic representation learning, disease progression modeling, neuroimaging.
+
+\section{Education}
+\entry{University of Texas at Arlington}{Arlington, TX}{Ph.D. in Computer Science and Engineering}{Aug 2026 -- Present}
+Advisor: Prof. Dajiang Zhu, MIND Lab
+\vspace{6pt}
+
+\entry{Tianjin University of Commerce}{Tianjin, China}{B.Sc. in Mathematics and Applied Mathematics}{Sep 2019 -- Jun 2023}
+
+\section{Experience}
+\entry{Tencent \& Canway Joint R\&D Team}{Shenzhen, China}{AI Algorithm Engineer}{Jun 2024 -- Dec 2025}
+\begin{itemize}
+  \item Graph neural networks for root cause analysis.
+  \item Transformer-based time series forecasting, anomaly detection and clustering.
+\end{itemize}
+\vspace{4pt}
+
+\entry{Multisim}{Shanghai, China}{AI Algorithm Engineer}{Apr 2023 -- Jun 2024}
+\begin{itemize}
+  \item Transformer-based time series forecasting.
+  \item Large sparse linear system solvers for simulation.
+  \item Bayesian optimization and AutoML for turbulence model calibration.
+\end{itemize}
+
+\section{Publications}
+\begin{enumerate}[leftmargin=1.5em,itemsep=4pt,topsep=2pt]
+  \item \textbf{Xianzhu Shao}$^*$, Yongqiang Du$^*$, Luofei Liang, Xue Xu, Zhiyi Lu.
+  A Dynamic Cost-Adjusted AdaCost Model for Credit Prediction of Smallholder Farmers.
+  \textit{Journal of Forecasting}, 45(3):997--1019, 2026. (JCR Q1)
+  \href{https://doi.org/10.1002/for.70069}{[DOI]}
+  \href{https://github.com/xianzhushao/Adjust-Adacost}{[Code]}
+  \item Qihui Shao, Yongqiang Du, Wenxuan Xue, Zhiyuan Yang, Zhenxin Jia, \textbf{Xianzhu Shao}, Xue Xu, Hongbo Duan, Zhipeng Zhu.
+  Predicting China's Thermal Coal Price: Does Multivariate Decomposition-Integrated Forecasting Model with Window Rolling Work?
+  \textit{Resources Policy}, 99:105410, 2024. (JCR Q1)
+  \href{https://doi.org/10.1016/j.resourpol.2024.105410}{[DOI]}
+\end{enumerate}
+{\small $^*$Equal contribution.}
+
+\section{Academic Service}
+\textbf{Journal Reviewer:} Engineering Applications of Artificial Intelligence, Journal of Forecasting, Transportation Letters\\
+\textbf{Conference Reviewer:} IEEE ISBI 2027
+
+\section{Selected Honors}
+\begin{itemize}
+  \item Outstanding Graduate, Tianjin University of Commerce \hfill 2023
+  \item Honorable Mention, Mathematical Contest in Modeling (MCM), team leader \hfill 2023
+  \item Second Prize, Asia Pacific Mathematical Contest in Modeling, team leader \hfill 2022
+  \item National Encouragement Scholarship \hfill 2021
+\end{itemize}
+
+\section{Skills}
+\textbf{Programming:} Python, MATLAB, C++ \qquad \textbf{Languages:} English, Chinese
+
+\end{document}
